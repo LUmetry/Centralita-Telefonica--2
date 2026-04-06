@@ -24,4 +24,4 @@ centralita.registrarLlamada(prov3);
 
 Console.WriteLine("\nResumen Final");
 Console.WriteLine($"Total de llamadas : {centralita.getTotalLlamadas()}");
-Console.WriteLine($"Total facturado   : {centralita.getTotalFacturado():F2}€");
+Console.WriteLine($"Total facturado   : {centralita.getTotalFacturado():F2}€"); 

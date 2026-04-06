@@ -12,3 +12,18 @@ C:\Users\migue\Documents\!PROGRAMACIÓN\C#\Programación 1\Centralita Telefónic
 C:\Users\migue\Documents\!PROGRAMACIÓN\C#\Programación 1\Centralita Telefónica\obj\Debug\net10.0\Centralita Telefónica.pdb
 C:\Users\migue\Documents\!PROGRAMACIÓN\C#\Programación 1\Centralita Telefónica\obj\Debug\net10.0\Centralita Telefónica.genruntimeconfig.cache
 C:\Users\migue\Documents\!PROGRAMACIÓN\C#\Programación 1\Centralita Telefónica\obj\Debug\net10.0\ref\Centralita Telefónica.dll
+C:\Users\migue\Documents\!PROGRAMACIÓN\C#\Programación 1\Centralita Telefónica Con SQL\bin\Debug\net10.0\Centralita Telefónica.exe
+C:\Users\migue\Documents\!PROGRAMACIÓN\C#\Programación 1\Centralita Telefónica Con SQL\bin\Debug\net10.0\Centralita Telefónica.deps.json
+C:\Users\migue\Documents\!PROGRAMACIÓN\C#\Programación 1\Centralita Telefónica Con SQL\bin\Debug\net10.0\Centralita Telefónica.runtimeconfig.json
+C:\Users\migue\Documents\!PROGRAMACIÓN\C#\Programación 1\Centralita Telefónica Con SQL\bin\Debug\net10.0\Centralita Telefónica.dll
+C:\Users\migue\Documents\!PROGRAMACIÓN\C#\Programación 1\Centralita Telefónica Con SQL\bin\Debug\net10.0\Centralita Telefónica.pdb
+C:\Users\migue\Documents\!PROGRAMACIÓN\C#\Programación 1\Centralita Telefónica Con SQL\obj\Debug\net10.0\Centralita Telefónica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\!PROGRAMACIÓN\C#\Programación 1\Centralita Telefónica Con SQL\obj\Debug\net10.0\Centralita Telefónica.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\!PROGRAMACIÓN\C#\Programación 1\Centralita Telefónica Con SQL\obj\Debug\net10.0\Centralita Telefónica.AssemblyInfo.cs
+C:\Users\migue\Documents\!PROGRAMACIÓN\C#\Programación 1\Centralita Telefónica Con SQL\obj\Debug\net10.0\Centralita Telefónica.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\!PROGRAMACIÓN\C#\Programación 1\Centralita Telefónica Con SQL\obj\Debug\net10.0\Centralita Telefónica.sourcelink.json
+C:\Users\migue\Documents\!PROGRAMACIÓN\C#\Programación 1\Centralita Telefónica Con SQL\obj\Debug\net10.0\Centralita Telefónica.dll
+C:\Users\migue\Documents\!PROGRAMACIÓN\C#\Programación 1\Centralita Telefónica Con SQL\obj\Debug\net10.0\refint\Centralita Telefónica.dll
+C:\Users\migue\Documents\!PROGRAMACIÓN\C#\Programación 1\Centralita Telefónica Con SQL\obj\Debug\net10.0\Centralita Telefónica.pdb
+C:\Users\migue\Documents\!PROGRAMACIÓN\C#\Programación 1\Centralita Telefónica Con SQL\obj\Debug\net10.0\Centralita Telefónica.genruntimeconfig.cache
+C:\Users\migue\Documents\!PROGRAMACIÓN\C#\Programación 1\Centralita Telefónica Con SQL\obj\Debug\net10.0\ref\Centralita Telefónica.dll
